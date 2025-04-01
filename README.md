@@ -1,16 +1,9 @@
-# vira
+VIRA - AI-powered Text-to-Speech (TTS) System
 
-A new Flutter project.
+VIRA is an AI-driven text-to-speech system that converts text into natural speech with customizable options like pitch, speed, and voice selection. It also features user authentication and tracks speech history for each user.
 
-## Getting Started
+Features: Text-to-Speech Conversion: Converts any text to speech with adjustable pitch, speed, and voice.
 
-This project is a starting point for a Flutter application.
+Customizable Options: Control the speed, pitch, and voice of the generated speech.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+User Authentication: Sign up and login functionality to track user-specific speech history.
